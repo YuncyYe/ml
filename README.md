@@ -1,6 +1,6 @@
 
-Samples for the the course
-https://class.coursera.org/ntumlone-001
+Test code for the learner of machine learning 
 
+The code should be as plain as possible.
 
-Prefer the code as less abstraction as possible!
+The less abstraction in programming language the better!
